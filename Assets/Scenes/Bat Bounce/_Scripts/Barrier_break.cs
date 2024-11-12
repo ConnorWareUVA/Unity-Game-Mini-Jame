@@ -1,6 +1,6 @@
 using System;
 using UnityEngine;
-
+//made with assistamce from https://www.youtube.com/watch?v=fyaJQpBRk2U as a base
 public class Barrier_break : MonoBehaviour
 {
     private int hitCount = 0;

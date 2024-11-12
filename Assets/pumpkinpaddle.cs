@@ -1,6 +1,6 @@
 using System.Collections;
 using UnityEngine;
-
+//made with consulation from chatgpt and https://www.youtube.com/watch?v=fyaJQpBRk2U
 public class pumpkinpaddle : MonoBehaviour
 {
     private Rigidbody2D rb;
@@ -65,7 +65,7 @@ public class pumpkinpaddle : MonoBehaviour
             rb.MovePosition(newPosition);
         }
     }
-
+//made with consultation from chat and https://www.youtube.com/watch?v=fyaJQpBRk2U as a base
     private IEnumerator paddlebounce()
     {
         upshift = true;

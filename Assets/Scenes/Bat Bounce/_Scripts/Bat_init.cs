@@ -1,5 +1,5 @@
 using UnityEngine;
-
+//utilized code from https://www.youtube.com/watch?v=fyaJQpBRk2U as a base
 public class Bat_init : MonoBehaviour
 {
     private Rigidbody2D rb { get; set; }

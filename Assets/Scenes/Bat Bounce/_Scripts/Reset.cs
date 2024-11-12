@@ -9,8 +9,3 @@ public class GReset : MonoBehaviour
         SceneManager.LoadScene("MainGame");
     }
 }
-
-//when all chances are lost, level restarts with 3 lives
-//reset all bricks
-//reload current level
-//increment lives counter

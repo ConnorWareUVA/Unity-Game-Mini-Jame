@@ -1,5 +1,6 @@
 using UnityEngine;
 
+//made with general consulation from chatgpt
 public class CandyAnim : MonoBehaviour
 {
     public Animator batAnimator; // Reference to the bat's Animator

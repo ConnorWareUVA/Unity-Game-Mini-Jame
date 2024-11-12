@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
-
+//made with general consulation from chatgpt
 public class CandyManager : MonoBehaviour
 {
     public TextMeshProUGUI winText; // Drag the "You Win!" Text element into this slot in the Inspector

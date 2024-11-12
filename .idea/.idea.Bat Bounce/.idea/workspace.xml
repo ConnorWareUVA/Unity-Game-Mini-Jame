@@ -1,0 +1,1259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81667a9f-1a9f-43bb-bf9e-65977d868674" name="Changes" comment="I hope this works! Added proper credits">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Bat Bounce/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Bat Bounce/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Bat Bounce/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Casual background HD V.4.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Casual background HD V.4/Original Artwork.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Casual background HD V.4/Original Artwork/casual-bg_HD Candyland.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Casual background HD V.4/Original Artwork/casual-bg_HD Candyland.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Casual background HD V.4/Original Artwork/casual-bg_HD.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Casual background HD V.4/Original Artwork/casual-bg_HD.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Casual background HD V.4/Scene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Casual background HD V.4/Scene/Demo scene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Casual background HD V.4/Scene/Demo scene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Casual background HD V.4/Scene/Demo sceneSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Casual background HD V.4/Scene/Demo sceneSettings.lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Casual background HD V.4/Sprite.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Casual background HD V.4/Sprite/Asset4u_HD.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Casual background HD V.4/Sprite/Asset4u_HD.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Casual background HD V.4/readme.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Casual background HD V.4/readme.rtf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/C#Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/C#Scripts/HitInformer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/C#Scripts/HitInformer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/C#Scripts/IHittable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/C#Scripts/IHittable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/C#Scripts/Piece.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/C#Scripts/Piece.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/C#Scripts/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/C#Scripts/Prefabs/Destructible.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/C#Scripts/Prefabs/Destructible.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/C#Scripts/Shatterable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/C#Scripts/Shatterable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/C#Scripts/Spawner.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/C#Scripts/Spawner.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Animations.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Animations/ATTACK_L.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Animations/ATTACK_L.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Animations/ATTACK_R.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Animations/ATTACK_R.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Animations/Clown_Anim.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Animations/Clown_Anim.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Animations/IDLE.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Animations/IDLE.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Animations/IDLE_Nose.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Animations/IDLE_Nose.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Animations/WALK_L.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Animations/WALK_L.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Animations/WALK_R.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Animations/WALK_R.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Prefabs/Clown.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Prefabs/Clown.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Prefabs/World.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Prefabs/World.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Atlas_Background_0001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Atlas_Background_0001.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0000.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0010.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0020.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0030.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0030.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0040.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0040.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0050.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0050.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0060.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0060.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0070.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0070.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0080.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0080.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0090.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0090.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0100.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0110.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0110.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0120.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0130.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0130.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0140.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0140.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0150.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0160.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0160.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0170.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0170.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0180.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0190.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_L_Clown_0190.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0000.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0010.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0020.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0030.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0030.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0040.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0040.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0050.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0050.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0060.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0060.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0070.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0070.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0080.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0080.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0090.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0090.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0100.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0110.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0110.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0120.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0130.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0130.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0140.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0140.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0150.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0160.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0160.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0170.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0170.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0180.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0190.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/ATTACK_R_Clown_0190.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0000.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0010.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0020.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0030.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0030.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0040.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0040.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0050.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0050.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0060.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0060.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0070.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0070.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0080.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0080.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0090.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0090.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0100.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0110.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0110.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0120.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0130.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0130.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0140.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0140.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0150.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0160.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0160.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0170.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0170.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0180.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0190.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0190.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0200.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0210.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0210.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0220.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0220.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0230.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/IDLE_Clown_0230.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0000.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0010.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0020.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0030.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0030.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0040.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0040.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0050.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0050.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0060.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0060.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0070.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0070.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0080.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0080.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0090.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0090.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0100.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0110.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0110.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0120.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0130.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0130.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0140.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0140.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_L_Clown_0150.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0000.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0010.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0020.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0030.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0030.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0040.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0040.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0050.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0050.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0060.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0060.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0070.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0070.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0080.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0080.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0090.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0090.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0100.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0110.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0110.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0120.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0130.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0130.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0140.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0140.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Clown/Sprites/Single Sprites/WALK_R_Clown_0150.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Documentation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Documentation/Change LOG.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Documentation/Change LOG.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Documentation/Documentation 2D Destructible Objects.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Documentation/Documentation 2D Destructible Objects.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Atlas_Vases.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Atlas_Vases.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_0001.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_0001.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_0002.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_0002.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_0003.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_0003.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_0004.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_0004.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_0005.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_0005.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_0006.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_0006.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_0007.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_0007.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_BROWN_0001.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_BROWN_0001.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_BROWN_0002.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_BROWN_0002.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_BROWN_0003.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_BROWN_0003.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_BROWN_0004.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_BROWN_0004.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_BROWN_0005.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_BROWN_0005.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_BROWN_0007.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_BROWN_0007.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_RED_0002.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_RED_0002.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_RED_0003.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Shard_RED_0003.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Vase_0001.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Vase_0001.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Vase_0002.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Vase_0002.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Vase_0003.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Vase_0003.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Vase_0004.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Vase_0004.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Vase_0005.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Vase_0005.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Vase_0006.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Vase_0006.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Vase_0007.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Vase_0007.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Vase_0008.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Vase_0008.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Vase_0009.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Vase_0009.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Vase_0010.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Vase_0010.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Vase_0011.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Vase_0011.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Vase_0012.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Vase_0012.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Vase_0013.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Prefabs/Vase_0013.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_0001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_0001.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_0002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_0002.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_0003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_0003.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_0004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_0004.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_0005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_0005.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_0006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_0006.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_0007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_0007.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_Edge_0001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_Edge_0001.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_Edge_0002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_Edge_0002.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_Edge_0003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_Edge_0003.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_Edge_0004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_Edge_0004.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_Edge_0005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_Edge_0005.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_Edge_0006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_Edge_0006.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_Edge_0007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Shard_Edge_0007.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_0001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_0001.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_0002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_0002.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_0003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_0003.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_0004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_0004.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_0005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_0005.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_0006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_0006.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_0007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_0007.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_0008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_0008.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_0009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_0009.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_0010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_0010.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_0011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_0011.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_0012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_0012.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_0013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_0013.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_Edge_0001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_Edge_0001.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_Edge_0002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_Edge_0002.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_Edge_0003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_Edge_0003.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_Edge_0004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_Edge_0004.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_Edge_0005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_Edge_0005.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_Edge_0006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_Edge_0006.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_Edge_0007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_Edge_0007.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_Edge_0008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_Edge_0008.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_Edge_0009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_Edge_0009.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_Edge_0010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_Edge_0010.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_Edge_0011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_Edge_0011.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_Edge_0012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_Edge_0012.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_Edge_0013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Vases/Single Sprites/Vase_Edge_0013.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Atlas_Wood.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Atlas_Wood.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Prefabs/Barrel.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Prefabs/Barrel.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Prefabs/Barrel_Plank_0001.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Prefabs/Barrel_Plank_0001.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Prefabs/Barrel_Ring_0001.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Prefabs/Barrel_Ring_0001.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Prefabs/Box_1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Prefabs/Box_1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Prefabs/Box_2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Prefabs/Box_2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Prefabs/Wood _Skewer_0001.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Prefabs/Wood _Skewer_0001.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Prefabs/Wood _Skewer_0002.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Prefabs/Wood _Skewer_0002.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Prefabs/Wood _Skewer_0003.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Prefabs/Wood _Skewer_0003.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Prefabs/Wood _Skewer_0004.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Prefabs/Wood _Skewer_0004.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Prefabs/Wood _Skewer_0005.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Prefabs/Wood _Skewer_0005.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Single Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Single Sprites/Barrel_0001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Single Sprites/Barrel_0001.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Single Sprites/Barrel_Plank_0001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Single Sprites/Barrel_Plank_0001.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Single Sprites/Barrel_Ring_0001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Single Sprites/Barrel_Ring_0001.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Single Sprites/Box_0001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Single Sprites/Box_0001.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Single Sprites/Box_0002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Single Sprites/Box_0002.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Single Sprites/Wood _Skewer_0001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Single Sprites/Wood _Skewer_0001.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Single Sprites/Wood _Skewer_0002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Single Sprites/Wood _Skewer_0002.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Single Sprites/Wood _Skewer_0003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Objects/Wood/Single Sprites/Wood _Skewer_0003.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Scene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Scene/Example_Demo_Scene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Scene/Example_Demo_Scene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Scene/Example_Demo_SceneSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Destructible Objects/Assets/Scene/Example_Demo_SceneSettings.lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/PSDs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/PSDs/HalloweenIcons.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/PSDs/HalloweenIcons.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs/Medium.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs/Medium/Bat.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs/Medium/Bat.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs/Medium/Candle.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs/Medium/Candle.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs/Medium/Cauldron.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs/Medium/Cauldron.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs/Medium/Grave.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs/Medium/Grave.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs/Medium/Pumpkin.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs/Medium/Pumpkin.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs/Medium/WitchHat.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs/Medium/WitchHat.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs/Small.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs/Small/Bat.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs/Small/Bat.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs/Small/Candle.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs/Small/Candle.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs/Small/Cauldron.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs/Small/Cauldron.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs/Small/Grave.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs/Small/Grave.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs/Small/Pumpkin.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs/Small/Pumpkin.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs/Small/WitchHat.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Prefabs/Small/WitchHat.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Scenes.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Scenes.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Large.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Large/Bat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Large/Bat.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Large/Candle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Large/Candle.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Large/Cauldron.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Large/Cauldron.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Large/Grave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Large/Grave.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Large/Outline.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Large/Outline/Bat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Large/Outline/Bat.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Large/Outline/Candle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Large/Outline/Candle.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Large/Outline/Cauldron.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Large/Outline/Cauldron.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Large/Outline/Grave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Large/Outline/Grave.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Large/Outline/Pumpkin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Large/Outline/Pumpkin.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Large/Outline/WitchHat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Large/Outline/WitchHat.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Large/Pumpkin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Large/Pumpkin.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Large/WitchHat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Large/WitchHat.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Medium.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Medium/Bat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Medium/Bat.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Medium/Candle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Medium/Candle.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Medium/Cauldron.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Medium/Cauldron.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Medium/Grave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Medium/Grave.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Medium/Outline.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Medium/Outline/Bat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Medium/Outline/Bat.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Medium/Outline/Candle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Medium/Outline/Candle.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Medium/Outline/Cauldron.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Medium/Outline/Cauldron.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Medium/Outline/Grave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Medium/Outline/Grave.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Medium/Outline/Pumpkin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Medium/Outline/Pumpkin.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Medium/Outline/WitchHat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Medium/Outline/WitchHat.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Medium/Pumpkin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Medium/Pumpkin.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Medium/WitchHat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Medium/WitchHat.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Small.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Small/Bat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Small/Bat.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Small/Candle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Small/Candle.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Small/Cauldron.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Small/Cauldron.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Small/Grave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Small/Grave.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Small/Outline.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Small/Outline/Bat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Small/Outline/Bat.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Small/Outline/Candle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Small/Outline/Candle.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Small/Outline/Cauldron.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Small/Outline/Cauldron.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Small/Outline/Grave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Small/Outline/Grave.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Small/Outline/Pumpkin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Small/Outline/Pumpkin.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Small/Outline/WitchHat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Small/Outline/WitchHat.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Small/Pumpkin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Small/Pumpkin.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Small/WitchHat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art By Kandles/Halloween Icons/Textures/Small/WitchHat.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets.index.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bat Bounce.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bat Bounce.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bat Bounciness.physicsMaterial2D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bat Bounciness.physicsMaterial2D.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bat.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bat.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BattyBumpyAnim.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BattyBumpyAnim.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BattyBumpyAnim.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CandyAnim.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CandyAnim.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CandyAnim.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/Break.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/Break.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-01.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-01.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-02.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-02.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-03.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-03.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-04.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-04.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-05.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-05.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-06.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-06.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-07.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-07.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-08.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-08.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-09.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-09.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-10.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-10.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-11.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-11.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-12.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-12.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-13.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-13.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-14.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-14.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-15.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-15.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-16.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-16.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-17.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-17.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-18.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-18.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-19.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-19.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-20.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-20.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-23.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-23.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-24.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-24.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-25.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-25.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-26.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-26.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-27.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-27.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-28.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-28.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-29.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-29.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-30.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-30.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-31.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-31.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-32.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-32.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-33.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-33.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-34.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-34.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-35.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-35.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-36.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-36.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-37.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-37.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-39.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-39.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-40.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-40.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-41.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-41.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-42.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-42.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-43.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-43.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-44.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-44.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-45.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-45.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-46.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-46.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-47.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-47.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-48.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-48.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-49.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-49.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-50.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-50.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/Hah.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/Hah.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/license.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/license.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/munch.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Casual Game Sounds U6/CasualGameSounds/munch.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DefaultVolumeProfile.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DefaultVolumeProfile.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Eating.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Eating.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Idle.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Idle.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InputSystem_Actions.inputactions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InputSystem_Actions.inputactions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Launcher.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Launcher.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Paddle.physicsMaterial2D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Paddle.physicsMaterial2D.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Barrier.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Barrier/Long 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Barrier/Long 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Barrier/Long 2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Barrier/Long 2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Barrier/Square 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Barrier/Square 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Barrier/Square 2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Barrier/Square 2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Candy.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Candy/Candy 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Candy/Candy 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Candy/Candy 2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Candy/Candy 2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Candy/Candy.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Candy/Candy.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Candy/New Folder.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Bat Bounce.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Bat Bounce/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Bat Bounce/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Bat Bounce/_Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Bat Bounce/_Scripts/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Bat Bounce/_Scripts/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Bat Bounce/_Scripts/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Bat Bounce/_Scripts/Barrier_break.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Bat Bounce/_Scripts/Barrier_break.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Bat Bounce/_Scripts/Barrier_break.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Bat Bounce/_Scripts/Bat_init.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Bat Bounce/_Scripts/Bat_init.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Bat Bounce/_Scripts/Bat_init.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Bat Bounce/_Scripts/Bouncy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Bat Bounce/_Scripts/Bouncy.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Bat Bounce/_Scripts/Candy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Bat Bounce/_Scripts/Candy.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Bat Bounce/_Scripts/Levels.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Bat Bounce/_Scripts/Levels.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Bat Bounce/_Scripts/Levels.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Bat Bounce/_Scripts/Reset.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Bat Bounce/_Scripts/Reset.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Bat Bounce/_Scripts/Reset.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/New Scene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/New Scene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/Lit2DSceneTemplate.scenetemplate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/Lit2DSceneTemplate.scenetemplate.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/Renderer2D.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/Renderer2D.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/Scenes/URP2DSceneTemplate.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/Scenes/URP2DSceneTemplate.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRP.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRP.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Fonts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Anton OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Anton OFL.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Anton.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Anton.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Bangers - OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Bangers - OFL.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Bangers.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Bangers.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Electronic Highway Sign.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Electronic Highway Sign.TTF.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Oswald-Bold - OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Oswald-Bold - OFL.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Oswald-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Oswald-Bold.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Roboto-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Fonts/Roboto-Bold.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Materials/Crate - Surface Shader Scene.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Materials/Crate - Surface Shader Scene.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Materials/Ground - Logo Scene.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Materials/Ground - Logo Scene.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Materials/Ground - Surface Shader Scene.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Materials/Ground - Surface Shader Scene.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Materials/Small Crate_diffuse.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Materials/Small Crate_diffuse.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Prefabs/Text Popup.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Prefabs/Text Popup.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Prefabs/TextMeshPro - Prefab 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Prefabs/TextMeshPro - Prefab 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Prefabs/TextMeshPro - Prefab 2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Prefabs/TextMeshPro - Prefab 2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Color Gradient Presets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Color Gradient Presets/Blue to Purple - Vertical.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Color Gradient Presets/Blue to Purple - Vertical.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Color Gradient Presets/Dark to Light Green - Vertical.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Color Gradient Presets/Dark to Light Green - Vertical.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Color Gradient Presets/Light to Dark Green - Vertical.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Color Gradient Presets/Light to Dark Green - Vertical.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Color Gradient Presets/Yellow to Orange - Vertical.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Color Gradient Presets/Yellow to Orange - Vertical.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Anton SDF - Drop Shadow.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Anton SDF - Drop Shadow.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Anton SDF - Outline.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Anton SDF - Outline.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Anton SDF - Sunny Days.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Anton SDF - Sunny Days.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Anton SDF.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Anton SDF.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF - Drop Shadow.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF - Drop Shadow.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF - Outline.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF - Outline.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF Glow.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF Glow.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF Logo.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF Logo.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Electronic Highway Sign SDF.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Electronic Highway Sign SDF.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/LiberationSans SDF - Metalic Green.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/LiberationSans SDF - Metalic Green.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/LiberationSans SDF - Overlay.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/LiberationSans SDF - Overlay.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/LiberationSans SDF - Soft Mask.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/LiberationSans SDF - Soft Mask.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Oswald Bold SDF.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Oswald Bold SDF.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF - Drop Shadow.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF - Drop Shadow.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF - Surface.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF - Surface.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Sprite Assets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Sprite Assets/Default Sprite Asset.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Sprite Assets/Default Sprite Asset.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Sprite Assets/DropCap Numbers.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Sprite Assets/DropCap Numbers.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/01-  Single Line TextMesh Pro.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/01-  Single Line TextMesh Pro.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/02 - Multi-line TextMesh Pro.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/02 - Multi-line TextMesh Pro.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/03 - Line Justification.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/03 - Line Justification.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/04 - Word Wrapping.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/04 - Word Wrapping.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/05 - Style Tags.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/05 - Style Tags.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/06 - Extra Rich Text Examples.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/06 - Extra Rich Text Examples.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/07 - Superscript &amp; Subscript Example.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/07 - Superscript &amp; Subscript Example.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/08 - Improved Text Alignment.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/08 - Improved Text Alignment.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/09 - Margin Tag Example.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/09 - Margin Tag Example.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/10 - Bullets &amp; Numbered List Example.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/10 - Bullets &amp; Numbered List Example.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/11 - The Style Tag.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/11 - The Style Tag.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/12 - Link Example.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/12 - Link Example.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/12a - Text Interactions.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/12a - Text Interactions.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/13 - Soft Hyphenation.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/13 - Soft Hyphenation.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/14 - Multi Font &amp; Sprites.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/14 - Multi Font &amp; Sprites.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/15 - Inline Graphics &amp; Sprites.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/15 - Inline Graphics &amp; Sprites.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/16 - Linked text overflow mode example.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/16 - Linked text overflow mode example.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/17 - Old Computer Terminal.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/17 - Old Computer Terminal.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/18 - ScrollRect &amp; Masking &amp; Layout.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/18 - ScrollRect &amp; Masking &amp; Layout.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/19 - Masking Texture &amp; Soft Mask.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/19 - Masking Texture &amp; Soft Mask.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/20 - Input Field with Scrollbar.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/20 - Input Field with Scrollbar.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/21 - Script Example.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/21 - Script Example.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/22 - Basic Scripting Example.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/22 - Basic Scripting Example.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/23 - Animating Vertex Attributes.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/23 - Animating Vertex Attributes.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/24 - Surface Shader Example.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/24 - Surface Shader Example.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/25 - Sunny Days Example.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/25 - Sunny Days Example.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/26 - Dropdown Placeholder Example.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/26 - Dropdown Placeholder Example.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/Benchmark (Floating Text).unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/Benchmark (Floating Text).unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark01.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark01.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark01_UGUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark01_UGUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark02.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark02.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark03.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark03.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark04.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark04.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/CameraController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/CameraController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ChatController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ChatController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/DropdownSample.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/DropdownSample.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/EnvMapAnimator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/EnvMapAnimator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ObjectSpin.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ObjectSpin.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ShaderPropAnimator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ShaderPropAnimator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/SimpleScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/SimpleScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/SkewTextExample.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/SkewTextExample.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_DigitValidator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_DigitValidator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_ExampleScript_01.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_ExampleScript_01.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_FrameRateCounter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_FrameRateCounter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_PhoneNumberValidator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_PhoneNumberValidator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventCheck.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventCheck.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextInfoDebugTool.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextInfoDebugTool.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_A.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_A.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_B.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_B.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_UiFrameRateCounter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_UiFrameRateCounter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMPro_InstructionOverlay.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMPro_InstructionOverlay.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TeleType.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TeleType.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextConsoleSimulator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextConsoleSimulator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextMeshProFloatingText.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextMeshProFloatingText.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextMeshSpawner.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextMeshSpawner.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexColorCycler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexColorCycler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexJitter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexJitter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexShakeA.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexShakeA.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexShakeB.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexShakeB.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexZoom.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexZoom.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/WarpTextExample.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/WarpTextExample.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Sprites/Default Sprites.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Sprites/Default Sprites.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Sprites/DropCap Numbers.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Sprites/DropCap Numbers.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Brushed Metal 3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Brushed Metal 3.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Floor Cement.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Floor Cement.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Floor Tiles 1 - diffuse.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Floor Tiles 1 - diffuse.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Fruit Jelly (B&amp;W).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Fruit Jelly (B&amp;W).jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Gradient Diagonal (Color).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Gradient Diagonal (Color).jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Gradient Horizontal (Color).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Gradient Horizontal (Color).jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Gradient Vertical (Color).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Gradient Vertical (Color).jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Mask Zig-n-Zag.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Mask Zig-n-Zag.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Small Crate_diffuse.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Small Crate_diffuse.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Small Crate_normal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Small Crate_normal.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Sunny Days - Seamless.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Sunny Days - Seamless.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Text Overflow - Linked Text Image 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Text Overflow - Linked Text Image 1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Text Overflow - Linked Text UI Screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Text Overflow - Linked Text UI Screenshot.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Wipe Pattern - Circle.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Wipe Pattern - Circle.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Wipe Pattern - Diagonal.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Wipe Pattern - Diagonal.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Wipe Pattern - Radial Double.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Wipe Pattern - Radial Double.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Wipe Pattern - Radial Quad.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Textures/Wipe Pattern - Radial Quad.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WinScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/WinScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WinScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/blockSound.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/blockSound.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/bump.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/bump.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/pumpkinpaddle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/pumpkinpaddle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/pumpkinpaddle.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/stasis.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/stasis.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/MemorySettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/MultiplayerManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/NetworkManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/SceneTemplateSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TimelineSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/VersionControlSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/XRSettings.asset" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ConnorWareUVA&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/uva-cs4730-f24/unity-game-jam-ConnorWareUVA.git&quot;,
+    &quot;accountId&quot;: &quot;43614ad8-1937-4677-a7c3-3a6f4392bd32&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Bat Bounce/_Scripts/Barrier_break.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Bat Bounce/_Scripts/Launcher_Logic.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2oOvfE3UKI1xEffbdXEWpCE8jRV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Reverting in main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.environmentSetup",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../Desktop/Zomboy and Batbo.app/Contents/MacOS/Bat Bounce" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Desktop/Zomboy and Batbo.app/Contents/MacOS" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MacOS/Unity" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath &quot;$PROJECT_DIR$&quot; -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="/Applications/Unity/Hub/Editor/2022.3.52f1/Unity.app/Contents/MacOS/Unity" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath &quot;$PROJECT_DIR$&quot; -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81667a9f-1a9f-43bb-bf9e-65977d868674" name="Changes" comment="" />
+      <created>1730753537708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730753537708</updated>
+      <workItem from="1730753538946" duration="163000" />
+      <workItem from="1730753786215" duration="175000" />
+      <workItem from="1730755217483" duration="950000" />
+      <workItem from="1730769134144" duration="7203000" />
+      <workItem from="1731131094861" duration="20000" />
+      <workItem from="1731131197776" duration="3888000" />
+      <workItem from="1731178068217" duration="933000" />
+      <workItem from="1731192342974" duration="667000" />
+      <workItem from="1731273884493" duration="5592000" />
+      <workItem from="1731349844650" duration="1599000" />
+      <workItem from="1731357358789" duration="335000" />
+      <workItem from="1731359321866" duration="1064000" />
+      <workItem from="1731374868113" duration="342000" />
+      <workItem from="1731375315783" duration="946000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Initial Commit of Unity Project" />
+    <MESSAGE value="I hope this works! Added proper credits" />
+    <option name="LAST_COMMIT_MESSAGE" value="I hope this works! Added proper credits" />
+  </component>
+</project>
