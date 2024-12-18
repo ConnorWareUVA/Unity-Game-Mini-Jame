@@ -5,7 +5,7 @@ public class pumpkinpaddle : MonoBehaviour
 {
     private Rigidbody2D rb;
     private Vector2 dir;
-    private float speed = 35f;
+    private float speed = 25f;
     private bool upshift = false;
     private Vector3 ogpos;
     private float bumpheight = 3f;
